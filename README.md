@@ -26,7 +26,7 @@ To run this project locally:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/mitchshimy/alx-listing-app.git
+git clone https://github.com/Mwesh-F/alx-listing-app.git
 cd alx-listing-app
 2. Install dependencies
 npm install
